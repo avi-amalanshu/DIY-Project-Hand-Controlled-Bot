@@ -9,7 +9,7 @@ pip install mediapipe
 ```
 
 Also for the camera module you will need imutils module
-'''
+```
 pip install imutils
-'''
+```
 
